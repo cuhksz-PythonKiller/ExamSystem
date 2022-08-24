@@ -1,0 +1,37 @@
+INFO:root:user choose Basic python
+INFO:root:question[101]: 以下关于字符串.strip()方法功能说明正确的是：.
+INFO:root:question[102]: 字符串是一个连续的字符序列，哪个选项可以实现打印字符信息的换行？.
+INFO:root:question[103]: val=pow(2, 1000)，使用一行代码返回val结果的长度值。.
+INFO:root:question[104]: 哪个选项是下面代码的执行结果？name="Python语言程序设计课程"
+print(name[0], name[2:-2], name[-1]).
+INFO:root:question[105]: 请选出以下正确的选项.
+INFO:root:question[106]: 求结果：v = dict.fromkeys(['k1','k2'],[])
+v['k1'].append(666)
+print(v)
+v['k1'] = 777
+print(v).
+INFO:root:user choose loop&logic
+INFO:root:question[201]: 判断下列逻辑语句的True or False.1 > 1 or 3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6  .
+INFO:root:question[202]: 判断下列逻辑语句的True or False.not 2 > 1 and 3 < 4 or 4 > 5 and 2 > 1 and 9 > 8 or 7 < 6.
+INFO:root:question[203]: 在循环中continue语句的作用是跳出当前循环.
+INFO:root:question[204]: 循环语句 for i in range(6,-4,-2):中，循环执行__次，循环变量的终值应当为__.
+INFO:root:question[205]: 运行下列代码，最终i的值为__。i=0
+lst=[1,2,3,4]
+for x in lst:
+     x=int(x)
+     i=i+x.
+INFO:root:question[206]: 表达式 5 if 5>6 else (6 if 3>2 else 5)的值为____.
+2022-08-24 15:46:50,882 - INFO - user choose Function
+2022-08-24 15:46:51,525 - INFO - question[301]: Python中定义函数时不需要声明函数参数的类型.
+2022-08-24 15:46:51,525 - INFO - question[302]: 定义阶段实参和形参无关，只有调用阶段实参的内存地址才会绑定给形参.
+2022-08-24 15:46:51,525 - INFO - question[303]: 名称空间把栈区名字分为内置名称空间,全局名称空间,局部名称空间三类.
+2022-08-24 15:46:51,526 - INFO - question[304]: 以下关于函数参数的描述，正确的是：.
+2022-08-24 15:46:51,526 - INFO - question[305]: 关于基本输入输出函数的描述，错误的选项是：.
+2022-08-24 15:46:51,526 - INFO - question[306]: 以下程序的输出结果是：L = []
+x = 3
+def pri_val(x):
+	L.append(x)
+x = 5
+pri_val(x)
+print('L = {}, x = {}'.format(L, x)).
+2022-08-24 15:51:52,394 - INFO - user [test_user] choose: {101: 'A', 102: 'B'}
