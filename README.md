@@ -16,7 +16,7 @@
 
 #### 代码分工:
 
-![1661328235059](pictures\1661328235059.png)
+![1661328235059](https://github.com/cuhksz-PythonKiller/ExamSystem/blob/main/pictures/1661328235059.png)
 
 ![1661328254795](pictures\1661328254795.png)
 
