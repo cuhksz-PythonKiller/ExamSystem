@@ -16,12 +16,12 @@
 
 #### 代码分工:
 
-![1661328235059](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1661328235059.png)
+![1661328235059](pictures\1661328235059.png)
 
-![1661328254795](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1661328254795.png)
+![1661328254795](pictures\1661328254795.png)
 
-![1661328276862](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1661328276862.png)
+![1661328276862](pictures\1661328276862.png)
 
-![1661328293545](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1661328293545.png)
+![1661328293545](pictures\1661328293545.png)
 
-![1661328343330](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1661328343330.png)
+![1661328343330](pictures\1661328343330.png)
