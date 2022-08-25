@@ -24,5 +24,5 @@
 
 ![1661328293545](https://github.com/cuhksz-PythonKiller/ExamSystem/blob/main/pictures/1661328293545.png)
 
-![1661355626192](https://github.com/cuhksz-PythonKiller/ExamSystem/blob/main/pictures/1661393202263.png)
+![1661355626192](https://github.com/cuhksz-PythonKiller/ExamSystem/blob/main/pictures/1661393379501.png)
 
